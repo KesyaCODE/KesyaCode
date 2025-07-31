@@ -10,7 +10,7 @@ It's **Kesya?**
 - **👭 Be a good family member 👭**
 
 ##### Social
-- [**Instagram**](https://www.instagram.com/iamksyaa/) | [**Linked In**](www.linkedin.com/in/kesyapujiatmoko) | [**GitHub**](https://github.com/KesyaCOD)
+- [**Instagram**](https://www.instagram.com/iamksyaa/) | [**Linked In**](https://www.linkedin.com/in/kesyapujiatmoko/) | [**GitHub**](https://github.com/KesyaCOD)
 
 
 ##### Language
