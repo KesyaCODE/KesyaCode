@@ -8,7 +8,9 @@ It's **Kesya?**
 - **👊 Be a good citizen 👊**
 - **👫 Be a good friend 👫**
 - **👭 Be a good family member 👭**
-- My [**Instagram**](https://www.instagram.com/iamksyaa/) nothing special
+- ![https://www.instagram.com/iamksyaa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+) ![www.linkedin.com/in/kesyapujiatmoko](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/KesyaCODE](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ##### Language
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -22,17 +24,3 @@ It's **Kesya?**
 
 ![Just profile](img/Profile.jpg)
 
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...        
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
