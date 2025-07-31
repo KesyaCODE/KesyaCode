@@ -2,13 +2,13 @@
 
 It's **Kesya?**
 
-**⚡ Fun fact**: Ordinary people, not fugitives
-**🌱Learn anything that is useful🌱**
-**👍 Be a good person 👍**
-**👊 Be a good citizen 👊**
-**👫 Be a good friend 👫**
-**👭 Be a good family member 👭**
-My [**Instagram**](https://www.instagram.com/iamksyaa/) nothing special
+- **⚡ Fun fact**: Ordinary people, not fugitives
+- **🌱Learn anything that is useful🌱**
+- **👍 Be a good person 👍**
+- **👊 Be a good citizen 👊**
+- **👫 Be a good friend 👫**
+- **👭 Be a good family member 👭**
+- My [**Instagram**](https://www.instagram.com/iamksyaa/) nothing special
 ![Just profile](img/Profile.jpg)
 
 <!--
