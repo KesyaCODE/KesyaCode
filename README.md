@@ -8,8 +8,9 @@ It's **Kesya?**
 - **👊 Be a good citizen 👊**
 - **👫 Be a good friend 👫**
 - **👭 Be a good family member 👭**
-- ![https://www.instagram.com/iamksyaa/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-) ![www.linkedin.com/in/kesyapujiatmoko](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/KesyaCODE](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+##### Social
+- [**Instagram**](https://www.instagram.com/iamksyaa/) | [**Linked In**](www.linkedin.com/in/kesyapujiatmoko) | [**GitHub**](https://github.com/KesyaCOD)
 
 
 ##### Language
