@@ -1,7 +1,17 @@
-## Hi there 👋
+## 4 0 4 Error 22 4 11 2 14 12 4
+
+It's **Kesya?**
+
+**⚡ Fun fact**: Ordinary people, not fugitives
+**🌱Learn anything that is useful🌱**
+**👍 Be a good person 👍**
+**👊 Be a good citizen 👊**
+**👫 Be a good friend 👫**
+**👭 Be a good family member 👭**
+My [**Instagram**](https://www.instagram.com/iamksyaa/) nothing special
+![Just profile](img/Profile.jpg)
 
 <!--
-**KesyaCODE/KesyaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...        
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
