@@ -2,7 +2,7 @@
 It's **Kesya?**
 #### **13 4 4 3 2 14 13 5 8 17 12 0 19 8 14 13 8 12 12 4 3 8 0 19 4 11 24**
 
-![BG](img/BG.png)
+![BG](img/BG2.png)
 
 - **⚡ Fun fact**: Ordinary people, not fugitives
 - **🌱Learn anything that is useful🌱**
